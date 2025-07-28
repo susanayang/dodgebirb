@@ -1,6 +1,7 @@
 # DodgeBirb
 
-**A 2D arcade-style game where players guide a bird through an incoming horde of enemy birds.**
+**A 2D arcade-style game where players guide a bird through an incoming horde of enemy birds.**  
+[Playable in browser](https://syangx.itch.io/dodge-birb)
 
 Game includes: 
 - Random generation of obstacles for endless replayability  
